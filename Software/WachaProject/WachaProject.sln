@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WachaProject", "WachaProject\WachaProject.csproj", "{ADFA5AC7-6058-4A76-9F98-C52BC9796F2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADFA5AC7-6058-4A76-9F98-C52BC9796F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFA5AC7-6058-4A76-9F98-C52BC9796F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFA5AC7-6058-4A76-9F98-C52BC9796F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFA5AC7-6058-4A76-9F98-C52BC9796F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
